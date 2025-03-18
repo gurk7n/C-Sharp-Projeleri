@@ -1,0 +1,10 @@
+C:\Users\Acer Nitro\source\repos\KelimeTahmin\KelimeTahmin\bin\Debug\KelimeTahmin.exe.config
+C:\Users\Acer Nitro\source\repos\KelimeTahmin\KelimeTahmin\bin\Debug\KelimeTahmin.exe
+C:\Users\Acer Nitro\source\repos\KelimeTahmin\KelimeTahmin\bin\Debug\KelimeTahmin.pdb
+C:\Users\Acer Nitro\source\repos\KelimeTahmin\KelimeTahmin\obj\Debug\KelimeTahmin.csproj.AssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\KelimeTahmin\KelimeTahmin\obj\Debug\KelimeTahmin.Form1.resources
+C:\Users\Acer Nitro\source\repos\KelimeTahmin\KelimeTahmin\obj\Debug\KelimeTahmin.Properties.Resources.resources
+C:\Users\Acer Nitro\source\repos\KelimeTahmin\KelimeTahmin\obj\Debug\KelimeTahmin.csproj.GenerateResource.cache
+C:\Users\Acer Nitro\source\repos\KelimeTahmin\KelimeTahmin\obj\Debug\KelimeTahmin.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\KelimeTahmin\KelimeTahmin\obj\Debug\KelimeTahmin.exe
+C:\Users\Acer Nitro\source\repos\KelimeTahmin\KelimeTahmin\obj\Debug\KelimeTahmin.pdb
